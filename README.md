@@ -2,17 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Cesar Lacerda Lima
+Matricula: 897571
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![print do site do globo esporte](images/print_insp.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![pagina criada no codepen.io, nao consegui no replit.com  ](images/print_site_codepen.png)
 
 ## Orientações sobre Linguagem MarkDown
 
